@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[Is2Setup.sln]
+SCC_Aux_Path = "\\is2\VSS_DB\is2_vss"
+SCC_Project_Name = "$/iStar2/iS_ap/app/net/Is2SetupProxy", HDEAAAAA
+
+[Is2Setup.vdproj]
+SCC_Aux_Path = "\\is2\VSS_DB\is2_vss"
+SCC_Project_Name = "$/iStar2/iS_ap/app/net/Is2SetupProxy", HDEAAAAA
